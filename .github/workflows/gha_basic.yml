@@ -30,7 +30,7 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           context: ./
-          file: ./dockerfile.prod
+          file: ./Dockerfile_prod
           push: true
           tags: |
             piter27t/lab6:ghlab3base
