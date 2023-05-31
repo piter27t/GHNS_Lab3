@@ -10,3 +10,4 @@ Aby uruchomic workflow za pomoca narzędzia Github CLI uzylem polecenia: ```gh w
 
 Aby sprawdzic poprawnosc uzylem polecenia: ```gh run list --workflow=gha_example.yml```
 
+![Screen](gha_1.JPG)
